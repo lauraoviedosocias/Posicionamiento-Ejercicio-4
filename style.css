@@ -1,0 +1,44 @@
+nav {
+    width: 500px;
+    height: 50px;
+    background-color: rgb(10, 112, 180);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+section {
+    width: 500px;
+    height: 50px;
+    background-color: lightseagreen;
+}
+.menu {
+    margin: 10px;
+}
+
+i {
+    color: white;
+    font-size: 30px;
+    margin: 10px;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 10px;
+    color: white;
+    margin: 0;
+}
+
+.numero {
+    display: inline-block;
+    background-color: rgb(219, 45, 45);
+    border-radius: 50px;
+    width: 15px;
+    height: 15px;
+    margin: 0;
+    padding: 1px 1px 1px 3px;
+    position: relative;
+    right: 25px;
+    bottom: 20px;
+}
